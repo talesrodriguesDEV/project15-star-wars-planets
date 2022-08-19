@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/project15-star-wars-planets/static/css/main.c890a0bf.css",
+    "main.js": "/project15-star-wars-planets/static/js/main.1e14d555.js",
+    "static/media/galaxy.jpg": "/project15-star-wars-planets/static/media/galaxy.2c65563f075f212f385f.jpg",
+    "index.html": "/project15-star-wars-planets/index.html",
+    "main.c890a0bf.css.map": "/project15-star-wars-planets/static/css/main.c890a0bf.css.map",
+    "main.1e14d555.js.map": "/project15-star-wars-planets/static/js/main.1e14d555.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c890a0bf.css",
+    "static/js/main.1e14d555.js"
+  ]
+}
